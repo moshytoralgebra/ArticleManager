@@ -1,0 +1,7 @@
+hr\algebra\utilities\MessageUtils.class
+hr\algebra\utilities\ArticleService.class
+hr\algebra\utilities\RssParseException.class
+hr\algebra\utilities\FileUtils.class
+hr\algebra\utilities\RssParser.class
+hr\algebra\utilities\IconUtils.class
+hr\algebra\utilities\JaxbUtils.class
